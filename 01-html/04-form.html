@@ -9,7 +9,40 @@
   <body>
     <main>
       <form action="/submit">
-        <!-- Add your code here -->
+        <h1>Form</h1>
+        <div>
+         <label for="username">Name</label>
+         <input type="text" name="username" id="username" placeholder="Full Name">
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input type="text" name="email" id="email" placeholder="name@pdx.edu">
+        </div>
+        <fieldset>
+          <legend>Favorite Character</legend>
+          <input type="radio" name="character" id="willow"/>
+          <label for="willow">Willow</label>
+          <br>
+          <input type="radio" name="character" id="buffy"/>
+          <label for="buffy">Buffy</label>
+          <br>
+          <input type="radio" name="character" id="angel"/>
+          <label for="angel">Angel</label>
+        </fieldset>
+        <br>
+        <fieldset>
+          <legend>Are you a fan of the show??</legend>
+          <input type="checkbox" name="episodes" id="option1">
+          <label for="option1">Yes, also a slayer</label>
+          <br>
+          <input type="checkbox" name="episodes" id="option2">
+          <label for="option2">No, I've been eaten bu the first</label>
+        </fieldset>
+        <br>
+        <div>
+         <input type="submit" value="Submit">
+         <input type="reset" value="Reset">
+        </div>
       </form>
     </main>
   </body>
