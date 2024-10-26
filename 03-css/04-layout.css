@@ -9,7 +9,7 @@ body {
 .header,
 .section,
 .aside {
-  box-sizing: content-box;
+  box-sizing: border-box; /* content-box means width == size of content*/
   padding: 10px;
   border: 4px solid var(--black);
 }
