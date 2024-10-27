@@ -14,3 +14,7 @@ address the specific accessability issues brought to light by Wave. I still have
 what all needs to be included when it comes to accessability, but I think Wave will definitely help.
 
 ### CSS
+I used the reference videos to check my work, and pretty much entirely for the last exercise. It is unclear
+to me weather the exercises are meant to be able to be competed without the video. While I can usually get the visuals
+just about right, the instructions don't have any explanation of the expected functionality. So if that is
+is intentional, then no problem, but if not, a short blurb about how the page is supposed to function would be very helpful.
