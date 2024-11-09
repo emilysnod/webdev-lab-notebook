@@ -1,10 +1,20 @@
 .flex-container {
+  display: flex;
   background-color: rgb(190, 190, 231);
 }
 
 /* Flex Container 1 */
+.flex-container-1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+} /*stopped at video 15:56*/
 
 /* Flex Container 2 */
+.flex-container-2 {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 
 /* Flex Container 3 */
 
