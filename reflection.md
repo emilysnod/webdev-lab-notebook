@@ -18,3 +18,16 @@ I used the reference videos to check my work, and pretty much entirely for the l
 to me weather the exercises are meant to be able to be competed without the video. While I can usually get the visuals
 just about right, the instructions don't have any explanation of the expected functionality. So if that is
 is intentional, then no problem, but if not, a short blurb about how the page is supposed to function would be very helpful.
+
+### Flexbox
+I followed the video with this exercise, generally had a hard time with the concepts, but by the end they were making sense.
+I did notice that the path to the style sheet was incorrect and that was messing me up for a while but I figured it out.
+Lastly, it seems as if the video is a little out dated - I found that   flex-flow: column wrap; did not work, so I had to
+split them up into   flex-flow: column; and flex-wrap: wrap;
+
+
+### Grid
+Felt like i really go tinto a groove with this one, being similar to flexbox, I watched the first 2 exercises and then
+tried my had at the rest befor checking my work. Not much else.
+
+### Bootstrap
